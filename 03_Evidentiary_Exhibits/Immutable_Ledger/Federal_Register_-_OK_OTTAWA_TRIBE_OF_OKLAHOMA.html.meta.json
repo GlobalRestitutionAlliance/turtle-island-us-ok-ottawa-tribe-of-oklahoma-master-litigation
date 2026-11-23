@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=OK+OTTAWA+TRIBE+OF+OKLAHOMA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=OK+OTTAWA+TRIBE+OF+OKLAHOMA",
+  "title": "Federal Register - OK OTTAWA TRIBE OF OKLAHOMA",
+  "fetched_at": "2026-11-23T17:37:51.018081Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 262362,
+  "sha256": "5ec009dd5cda2722c6e97e5b94838fe26c00960f951c43d27298ca7f86738c9a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
